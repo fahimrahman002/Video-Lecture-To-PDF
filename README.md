@@ -37,6 +37,6 @@ A simple python script to generate a pdf from a video lecture. Basically the pro
 	python main.py
 	`
 	
-> [Note: It will take some time to generate the pdf. Meanwhile it will print the similarity scrore while getting an unique frame and move the processed videos to ProcessedVideos folder.]
+> [Note: It will take some time to generate the pdf. Meanwhile it will print the similarity score while getting an unique frame and move the processed videos to ProcessedVideos folder.]
 
 After successful execution, you will find your desired PDFs in the folder called pdf.  
