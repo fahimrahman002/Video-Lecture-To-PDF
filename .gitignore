@@ -1,6 +1,10 @@
+!videos/
+videos/*
+!videos/PlaceYourVideosHere.txt
 NewVideos
 images
 pdf
 ProcessedVideos
 venv
 .vscode
+
